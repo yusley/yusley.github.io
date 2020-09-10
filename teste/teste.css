@@ -1,0 +1,18 @@
+.linha{
+    width: 900px;
+    background-color: gray;
+    margin: 0px auto;
+    overflow:auto;
+}
+
+.coluna{
+    float: left;
+}
+
+.col11{
+    margin: 0px 0px 0px 20px;
+}
+
+.linha ul li{
+    display: inline;
+}
