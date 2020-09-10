@@ -1,0 +1,176 @@
+body{
+    background-image:url("https://www.wallpapertip.com/wmimgs/98-982656_rainbow-six-siege-wallpaper-4k.jpg")
+}
+
+
+a:link, a:active, a:visited{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration:underline;
+}
+
+h1,h2,h3,h4,h5,h6{
+    color: white;
+}
+
+.linha{
+    width: 960px;
+    margin: -10px auto;
+    overflow:auto;
+    padding: 5px 0;
+
+}
+
+.coluna{
+    padding: 0px 10px;
+    float: left;
+}
+
+.col1{
+    width: 60px;
+}
+
+.col2{
+    width: 140;
+}
+
+.col3{
+    width: 220px;
+}
+
+.col4{
+    width: 300px;
+}
+
+.col5{
+    width: 380px;
+}
+
+.col6{
+    width: 460px;
+}
+
+.col7{
+    width: 540px;
+}
+
+.col8{
+    width: 620px;
+}
+
+.col9{
+    width: 700px;
+}
+
+.col10{
+    width: 780px;
+}
+
+.col11{
+    width: 860px;
+}
+
+.col12{
+    width: 940px;
+}
+.header{
+    width: 960px;
+    margin: 0 auto;
+    background-color:black;
+}
+
+.header img{
+    width: 300px;
+    margin: 10px 0px 10px 0px;
+}
+
+ul li{
+    margin-bottom: 5px;
+}
+ul.menubar li{
+    list-style:none;
+    display:inline;
+    margin: 10px 0px;
+    margin-right:15px;
+    padding: 0px 0px 0px 150px;
+}
+
+ul.menubar li a{
+    font-weight: 900;
+    color: honeydew;
+    font-family: 'Roboto', sans-serif;  
+}
+
+.section{
+    width: 960px;
+    margin: 0 auto;
+    background-color:rgba(19, 18, 18, 0.822);
+}
+
+.section a{
+    color: white;
+    font-size:25px;
+}
+
+.section h1{
+    margin: 20px 170px;
+}
+
+.section img{
+    width: 500px;
+    margin: 10px 200px;
+}
+
+.section p{
+    color: white;
+    font-size:17px;
+    font-weight: 400;
+}
+
+.noticias{
+    width: 960px;
+    margin: 0 auto;
+    background-color:rgba(19, 18, 18, 0.822);
+}
+
+.noticias h2{
+    margin: 50px 0 90px 350px; 
+    font-weight: 900;
+}
+
+.noticias a{
+    color: white;
+    margin: 100px 0 0 0;
+}
+
+.noticias img{
+    width: 300px;
+    margin: 10px 0 110px 200px;
+}
+
+.noticias p{
+    width: 300px;
+    color: white;
+}
+
+hr{
+    color: rgba(255, 255, 255, 0.24);
+    width: 890px;
+    margin: 0  0 110px 20px;
+}
+
+.footer{
+    width: auto;
+    height: auto;
+    background-color: rgb(0, 0, 0);
+}
+
+.footer p{
+    font-size: 15px;
+    font-weight: 400px;
+    color: white;
+    margin: 20px 450px;
+    
+}

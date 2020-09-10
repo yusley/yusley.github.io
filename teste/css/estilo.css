@@ -1,0 +1,152 @@
+body{
+    background-image:url("https://www.wallpapertip.com/wmimgs/98-982656_rainbow-six-siege-wallpaper-4k.jpg")
+}
+
+a:link, a:active, a:visited{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration:underline;
+}
+
+.linha{
+    width: 960px;
+    margin: -10px auto;
+    overflow:auto;
+    padding: 5px 0;
+    background-color:rgb(19, 18, 18);   
+}
+
+.linha .col1{
+    margin: 10px auto;
+}
+
+.linha .col1 img{
+    width: 300px;
+    margin: 10px 0px 10px 0px;
+    
+}
+
+.linha2{
+    width: 960px;
+    margin: 0px auto;
+    padding: 0px;
+    overflow:auto;
+    background-color:rgb(19, 18, 18);
+}
+
+.linha2 nav ul{
+    list-style: none;
+
+}
+
+.linha2 nav ul li{
+    display: inline;
+    margin: 10px 00px;
+    margin-right:15px;
+    padding: 0px 0px 0px 150px;
+    
+}
+
+.linha2 nav ul li a{
+    font-weight: 900;
+    color: honeydew;
+    font-size: 17px;
+    font-family: 'Roboto', sans-serif;      
+}
+
+
+.linha3{
+    width: 960px;
+    margin: -10px auto;
+    padding: 0px;
+    overflow:auto;
+    background-color:rgba(19, 18, 18, 0.822)
+}
+
+.coluna{
+    float: left;
+    padding: 0px 10px;
+}
+
+.linha3 p{
+    width: 910px;
+    padding: 20px 10px 0px 10px;
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.linha3 .coluna img{
+    width: 920px;
+    padding: 20px 10px 0px 10px;
+}
+
+.linha4{
+    width: 960px;
+    margin: -20px auto;
+    padding: 0px;
+    overflow:auto;
+    background-color:rgba(19, 18, 18, 0.822)
+}
+
+.linha4 img{
+    width: 100px;
+    margin: 0px 50px;
+}
+
+.linha4 p{
+    color:aliceblue;
+    width:600px;
+    font-size: 20px;
+    margin: 40px 0px;
+}
+
+.linha4 h1{
+    margin: 30px 0px 40px 250px;
+    color:white ;
+}
+
+.linha4 h2{
+    margin: 400px 0px 40px 370px;
+    color: white;
+}
+
+.linha4 #grande{
+    width: 940px;
+    font-display: justify;
+    margin: 30px auto;
+}
+
+.linha4 #imggrande{
+    width: 940px;
+    margin: 0px auto;
+}
+
+.linha5{
+    margin: 10px auto;
+    padding: 0px;
+    overflow:auto;
+    background-color:black;    
+}
+
+.linha5 h1{
+    color: white;
+}
+
+.linha5 .coluna1{
+    margin: 100px 600px;
+}
+
+.linha5 a{
+    width: 100px;
+    height: 120px;
+    color: white;
+    margin: 10px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    transition: 0.3s;
+    font-size: 60px;
+}
+
