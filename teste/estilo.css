@@ -103,8 +103,8 @@ ul.inline li a:hover{
     margin:10px 10px;
     font-size:18px;
 }
-.section img{
-    max-width: 100%;
+.section #imggrande img{
+    width: 200px;
     padding: 0px 20px;
 
 }
